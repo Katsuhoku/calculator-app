@@ -2,7 +2,7 @@
 # Android Calculator App
 
 A simple Calculator App for Android.
-This app offers a clean app for simple math calculations with a history of the operations that has been computed.
+This app offers a clean interface for simple math calculations with a history of the operations that has been computed.
 
 Built with Kotlin, MVVM & Jetpack Compose.
 
